@@ -1,10 +1,11 @@
 ---
-id: yangwenqing
+id: 93wf06d0x2fw0nuid6ru5v3
 title: Postgresql
 desc: ''
-updated: 1677639196625
-created: 1677639038034
+updated: 1677661008781
+created: 1677660601187
 ---
+
 - [**PSQL**](#psql)
   - [psql扩展参数](#psql扩展参数)
   - [psql变量传递](#psql变量传递)

@@ -1,10 +1,11 @@
 ---
-id: 06wv1pu62ug70erv7z2glro
+id: 78ow2mc0s8vdo18dl5agezw
 title: CPUBench
 desc: ''
-updated: 1677642172286
-created: 1677642117036
+updated: 1677660997694
+created: 1677660786788
 ---
+
 - [**CPUBench 运行**](#cpubench-运行)
 - [**CPUBench tpcc/tpch**](#cpubench-tpcctpch)
   - [**cpubench tpcc 测试简介**](#cpubench-tpcc-测试简介)

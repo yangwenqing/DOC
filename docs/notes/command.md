@@ -1,10 +1,11 @@
 ---
-id: dnr6ag8b5s8hg0ivp8iuo6b
+id: 1jgpog2x8tfwnc0d8x1xqa9
 title: Command
 desc: ''
-updated: 1677642048181
-created: 1677642032843
+updated: 1677661001063
+created: 1677660874721
 ---
+
 # 如何将本地文件夹链接到远程服务器上
 ```shell
      yum install sshfs

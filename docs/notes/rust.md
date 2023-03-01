@@ -1,10 +1,11 @@
 ---
-id: c6kxa2dyhuqcxlqdwmk5nwv
+id: btyzp319gdq1wyt4sud7w0k
 title: Rust
 desc: ''
-updated: 1677642093524
-created: 1677642089135
+updated: 1677660993431
+created: 1677660707724
 ---
+
 - [**rust入门**](#rust入门)
   - [**New a rust program**](#new-a-rust-program)
   - [**镜像源配置**](#镜像源配置)
