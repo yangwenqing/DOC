@@ -2,10 +2,9 @@
 id: 78ow2mc0s8vdo18dl5agezw
 title: CPUBench
 desc: ''
-updated: 1677660997694
+updated: 1679450817636
 created: 1677660786788
 ---
-
 - [**CPUBench 运行**](#cpubench-运行)
 - [**CPUBench tpcc/tpch**](#cpubench-tpcctpch)
   - [**cpubench tpcc 测试简介**](#cpubench-tpcc-测试简介)
