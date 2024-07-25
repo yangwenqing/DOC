@@ -1,10 +1,11 @@
 ---
-id: 93wf06d0x2fw0nuid6ru5v3
-title: Postgresql
+id: 53ho1pir20xbvy73qj5wgyv
+title: Postgresql_note
 desc: ''
-updated: 1677661008781
-created: 1677660601187
+updated: 1721887088798
+created: 1721886907228
 ---
+
 
 - [**PSQL**](#psql)
   - [psql扩展参数](#psql扩展参数)

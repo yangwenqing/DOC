@@ -1,9 +1,9 @@
 ---
-id: btyzp319gdq1wyt4sud7w0k
-title: Rust
+id: e6on2py35o5rtrh74cv07in
+title: rust_study
 desc: ''
-updated: 1677660993431
-created: 1677660707724
+updated: 1721887173247
+created: 1721887173247
 ---
 
 - [**rust入门**](#rust入门)

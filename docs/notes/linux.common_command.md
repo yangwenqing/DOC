@@ -1,9 +1,9 @@
 ---
-id: 1jgpog2x8tfwnc0d8x1xqa9
-title: Command
+id: sh71yysqakywxfj7m06vyq5
+title: Common_command
 desc: ''
-updated: 1677661001063
-created: 1677660874721
+updated: 1721887086254
+created: 1721886974401
 ---
 
 # 如何将本地文件夹链接到远程服务器上
